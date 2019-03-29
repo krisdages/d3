@@ -87,9 +87,9 @@ d3-axis@1:
   version "1.0.12"
   resolved "https://registry.yarnpkg.com/d3-axis/-/d3-axis-1.0.12.tgz#cdf20ba210cfbb43795af33756886fb3638daac9"
 
-"d3-brush@github:krisdages/d3-brush#8e7e714c":
+"d3-brush@github:krisdages/d3-brush#1.0.6-key-modifier-with-dist":
   version "1.0.6"
-  resolved "https://codeload.github.com/krisdages/d3-brush/tar.gz/8e7e714c61a7885f9eded656527ac20c025ccb86"
+  resolved "https://codeload.github.com/krisdages/d3-brush/tar.gz/d9ae924833bb746d893665a5170c3b8307099048"
   dependencies:
     d3-dispatch "1"
     d3-drag "1"

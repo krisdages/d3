@@ -41,7 +41,7 @@
   "dependencies": {
     "d3-array": "1",
     "d3-axis": "1",
-    "d3-brush": "github:krisdages/d3-brush#8e7e714c",
+    "d3-brush": "github:krisdages/d3-brush#1.0.6-key-modifier-with-dist",
     "d3-chord": "1",
     "d3-collection": "1",
     "d3-color": "1",
